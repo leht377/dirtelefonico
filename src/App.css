@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+/* 
+
+*/
+.myIcon {
+  width: 40px;
+  height: 40px;
+}
+.myIcon > ion-icon{
+  font-size:40px;
+}
